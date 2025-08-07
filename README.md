@@ -211,8 +211,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, issues, or contributions:
 
 - Create an issue on GitHub
-- Contact: your.email@example.com
-- Documentation: [Wiki](https://github.com/yourusername/real-time-sign-language-translation/wiki)
+- Contact: chakrabortyanirban832@gmail.com
+- Documentation: readme & documentation provided
 
 ## 🔄 Version History
 
