@@ -89,7 +89,7 @@ python train_all_models.py
 Launch the GUI application for real-time testing:
 
 ```bash
-python real_time_analysis.py
+python real_time_analysis_2.py
 ```
 
 **GUI Features:**
@@ -113,7 +113,7 @@ python deploy_onnx.py --model bigru_attention --model_path outputs/best_bigru_at
 
 1. **Launch the application**
    ```bash
-   python real_time_analysis.py
+   python real_time_analysis_2.py
    ```
 
 2. **Select a model** from the dropdown menu
